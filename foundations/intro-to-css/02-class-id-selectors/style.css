@@ -1,0 +1,18 @@
+.p-odd {
+    background-color: rgb(245, 168, 181);
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+
+#number-2 {
+    color: rgb(16, 16, 236);
+    font-size: 32px;
+}
+
+#number-4 {
+    background-color: rgb(96, 235, 96);
+    font-weight: bold;
+}
+
+.p-odd.cool {
+    font-size: 24px;
+}
